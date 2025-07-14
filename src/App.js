@@ -13,9 +13,9 @@ import {
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ProgressBar from 'react-bootstrap/ProgressBar';
 
-import img1 from './project1.png';
+import img1 from './1.png';
 import img2 from './project2.png';
-import img3 from './project3.png';
+import img3 from './.vehiclesco.jpeg';
 import cv from "./Saksham_Kaloo_Resume_May2025.pdf";
 
 // components start
@@ -179,8 +179,8 @@ const ProjectsSection = () => (
                   A simple ReactJS and React-Bootstrap website to showcase benefits of Vegitables.
                 </Card.Text>
                 <div className="d-flex justify-content-between">
-                  <a href="https://vegetablefood.onrender.com/" target='_blank' rel='noreferrer'><Button variant="primary" size="sm">View Live</Button></a>
-                  <a href="https://github.com/sakshamkaloo/vegetablefood" target='_blank' rel='noreferrer'>
+                  <a href="https://vehicleco.onrender.com/" target='_blank' rel='noreferrer'><Button variant="primary" size="sm">View Live</Button></a>
+                  <a href="https://github.com/sakshamkaloo/VehicleCo" target='_blank' rel='noreferrer'>
                   <Button variant="outline-secondary" size="sm">GitHub</Button>
                   </a>
                 </div>
