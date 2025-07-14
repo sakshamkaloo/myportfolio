@@ -15,7 +15,7 @@ import ProgressBar from 'react-bootstrap/ProgressBar';
 
 import img1 from './project1.png';
 import img2 from './project2.png';
-import img3 from './.vehiclesco.jpeg';
+import img3 from './vehiclesco.jpeg';
 import cv from "./Saksham_Kaloo_Resume_May2025.pdf";
 
 // components start
