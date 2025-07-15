@@ -174,7 +174,7 @@ const ProjectsSection = () => (
                 alt={`Project `}
               />
               <Card.Body>
-                <Card.Title>Veg Food</Card.Title>
+                <Card.Title>vehicles co</Card.Title>
                 <Card.Text>
                   A simple ReactJS and React-Bootstrap website to showcase benefits of Vegitables.
                 </Card.Text>
