@@ -311,7 +311,7 @@ function App() {
   const FooterComponent = () => (
     <footer className="bg-dark text-white text-center mt-5 pt-4 pb-2">
       <Container>
-        <p>&copy; 2025 Your Name | All Rights Reserved</p>
+        <p>&copy; 2025 Saksham Kaloo | All Rights Reserved</p>
         <nav>
           <Nav className="justify-content-center">
             {['home', 'about', 'projects', 'hireme'].map((key) => (
